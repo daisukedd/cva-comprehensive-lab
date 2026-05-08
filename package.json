@@ -4,16 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@tailwindcss/vite": "^4.2.4",
     "class-variance-authority": "^0.7.1",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
+    "tailwindcss": "^4.2.4",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.3"
   },

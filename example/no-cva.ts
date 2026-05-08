@@ -8,5 +8,4 @@ function buttonClasses(color: string, size: string) {
     if (size == "lg") classes += " px-6 py-3";
 
     return classes;
-
 }
